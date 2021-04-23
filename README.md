@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+DS2HndC8kcdM9HosVYGHjNdkayfW65cGRq
 <!--
 **HuynhVanHinh/HuynhVanHinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Địa chỉ ví công cộng của tôi để nhận DOGE DS2HndC8kcdM9HosVYGHjNdkayfW65cGRq
+
+Thanh toán cho tôi qua Ví Trust: https://link.trustwallet.com/send?coin=3&address=DS2HndC8kcdM9HosVYGHjNdkayfW65cGRq
